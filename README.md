@@ -1,1 +1,1 @@
-Repository to track tasks related to writing docuementation.
+Repository to track tasks related to writing documentation.
